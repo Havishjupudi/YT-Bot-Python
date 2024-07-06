@@ -1,4 +1,3 @@
-It seems you'd like to combine the detailed installation instructions for `pyautogui`, `Pillow` (PIL), and `opencv-python` with the expanded README for the YouTube Bot Project into a single coherent document. Here's a consolidated version that includes both sections:
 
 ---
 
