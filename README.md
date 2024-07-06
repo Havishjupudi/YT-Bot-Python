@@ -99,3 +99,7 @@ Once configured and with game data selected, execute `main.py` to initiate the a
    - Each step of the automation corresponds to actions necessary to prepare and commence a livestream session based on the selected game and its associated part number.
 
 ---
+Enjoy Using the YouTube Bot Project!
+The YouTube Bot Project aims to enhance your livestreaming experience by simplifying the setup process. Whether you're a seasoned content creator or just starting out, this tool is designed to save you time and effort. By automating repetitive tasks and providing an intuitive GUI for managing game data, we hope you can focus more on creating engaging content and interacting with your audience.
+
+Get started today and elevate your livestreams with ease!
